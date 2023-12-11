@@ -6,10 +6,12 @@ My name is Christian (or Chris), and I manage my personal projects here on GitHu
 
 <br>
 
-<section style="
+<div style="
 display: flex; 
-justify-content: space-around"
+justify-content: space-around;
+gap: 30px;
+flex-wrap: wrap"
 >
 <img src="https://github-readme-stats.vercel.app/api?username=chris-gits&theme=dark" alt="GitHub Readme Stats Overview" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-gits&theme=dark" alt="GitHub Readme Stats Top Languages"/> 
-</section>
+</div>
