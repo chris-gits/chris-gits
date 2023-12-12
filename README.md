@@ -1,4 +1,14 @@
-![Image of Terminal with the input: "cowsay "Hey I'm Chris and welcome to my GitHub." and an output of an cow made of text characters repeating the input within a thought bubble."](./carbon.png)
+<picture>
+  <source
+    srcset="./carbon_dark.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="./carbon_light.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chris-gits&show_icons=true" />
+</picture>
 
 ## 👋🏽 Hey, I'm Chris. 
 
@@ -9,12 +19,10 @@ My name is Christian (or Chris), and I manage my personal projects here on GitHu
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=chris-gits&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
-    style="flex-grow: 1;"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=chris-gits&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    style="flex-grow: 1;"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=chris-gits&show_icons=true" />
 </picture>
@@ -23,12 +31,10 @@ My name is Christian (or Chris), and I manage my personal projects here on GitHu
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-gits&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
-    style="flex-grow: 1;"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=chris-gits&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    style="flex-grow: 1;"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-gits&show_icons=true" />
 </picture>
