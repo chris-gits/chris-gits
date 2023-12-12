@@ -6,7 +6,7 @@ My name is Christian (or Chris), and I manage my personal projects here on GitHu
 
 <br>
 
-<div style="display: flex; gap: 30px; flex-wrap: wrap;">
-<img src="https://github-readme-stats.vercel.app/api?username=chris-gits&theme=dark" alt="GitHub Readme Stats Overview" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-gits&theme=dark" alt="GitHub Readme Stats Top Languages"/> 
+<div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: space-between; align-content: left;">
+<img src="https://github-readme-stats.vercel.app/api?username=chris-gits&theme=dark" alt="GitHub Readme Stats Overview" style="flex-grow: 1; flex-basis: 100px;"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-gits&theme=dark" alt="GitHub Readme Stats Top Languages" style="flex-grow: 1; flex-basis: 100px;" />
 </div>
