@@ -10,9 +10,29 @@ Hello! My name is Christian (or Chris), I am currently majoring in Software Engi
 
 ### 📊 Contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=chris-gits&theme=default&show_icons=true&hide_border=true&count_private=true" alt="chris-gits's GitHub Stats" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=chris-gits&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=chris-gits&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chris-gits&show_icons=true" />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-gits&theme=default&show_icons=true&hide_border=true&layout=compact" alt="chris-gits's GitHub Stats" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-gits&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-gits&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-gits&show_icons=true" />
+</picture>
 
 ### 🛠️ Software & Tools
 ##### Languages
