@@ -1,6 +1,6 @@
 # `Hello, World! _`
 
-### 📔 About Me
+## 📔 About Me
 
 Hello! My name is Christian (or Chris), I am currently majoring in Software Engineering at Florida Gulf Coast University, and driven to bring a fresh new perspective to any situation that may come my way. Whether it be on campus, online, or at home, I am incredibly passionate about working alongside diverse teams to develop innovative solutions to everyday problems. I might have a little too much enthusiasm on why tabs outshine spaces, or how dark-mode has become severely overrated, but I equally strive to be open-minded collecting experience with different tools and languages. Thank you for visiting my profile and I will be more than glad to answer any questions you might have!
 
@@ -8,7 +8,7 @@ Hello! My name is Christian (or Chris), I am currently majoring in Software Engi
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianmarrerose@gmail.com)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@CXL)
 
-### 📊 Contributions
+## 📊 Contributions
 
 <picture>
   <source
@@ -34,7 +34,7 @@ Hello! My name is Christian (or Chris), I am currently majoring in Software Engi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-gits&show_icons=true" />
 </picture>
 
-### 🛠️ Software & Tools
+## 🛠️ Software & Tools
 ##### Languages
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white&style=for-the-badge)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](#)
