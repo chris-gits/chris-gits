@@ -2,7 +2,7 @@
 
 ### 📔 About Me
 
-Hello! My name is Christian (or Chris), I am currently majoring in Software Engineering at Florida Gulf Coast University, and driven to bring a fresh new perspective to any situation that may come my way. Whether it be on campus, online, or at home, I am incredibly passionate about working alongside diverse teams to develop innovative solutions to everyday problems. I might have a little too much enthusiasm on why tabs outshine spaces, or how dark-mode has become severely overrated, but I equally strive to be open-minded collecting experience with different tools and languages. Thank you for visiting my profile and I will be more than glad to answer any questions you might have!
+My name is Chris and I'm currently majoring in Computer Science with a concentration in Software Engineering at the University of Illinois - Chicago. I am incredibly driven to bring a fresh new perspective to any situation that may come my way. Whether it be on campus, with community, or alongside a team, I am passionate about working alongside diverse teams to develop innovative solutions to everyday problems. Thank you for visiting my profile and I will be more than glad to answer any questions you might have!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-alexander-marrero-464710334/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianmarrerose@gmail.com)
